@@ -1,0 +1,153 @@
+:root{
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+}
+
+.big-box{
+    width: 696px;
+    height: 487px;
+    margin-top: 133px;
+    margin-left: 150px;
+    margin-block-end: 240px;
+    margin-inline-end: 119px;
+    display: inline-block;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0px;
+    gap: 40px;
+
+}
+h1{
+    
+    font-size: 80px;
+    line-height: 96.82px;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+.first-half p{
+    width: 500px;   
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 40px;
+
+}
+
+.green-button{
+    background: #196046;
+    border: none;
+    padding: 0px;
+    padding-inline: 24px;
+    padding-block: 16px;
+    
+
+}
+
+span{
+    color: #fff;
+    height: 20px;
+    width: 105px;
+    text-align: center;
+}
+.ptrocinador{
+    margin-bottom: 126px;
+    margin-top: 200px;
+    width: 422px;
+    height: 94px;
+    flex-direction: column;
+    position: absolute
+}
+.ptrocinador p{
+    font-weight: 700;
+    font-size: 18px;
+    color: #303C51;
+}
+.ptrocinador h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #CFD6E3;
+    margin-top: 24px;
+}
+.main-hero-image{
+    display: inline-block;
+    position: relative;
+ 
+}
+.wrapper-image{
+    width: 805px;
+    height: 813px;
+    border: solid 1px red;
+    position: absolute;
+    left: 965px;
+    top: 133px;
+}
+.wrapper-image-2{
+    width: 94px;
+    height: 99px;
+    position: absolute;
+    left: 918px;
+    top: 182px;
+}
+.square-green{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    gap: 24px;
+    
+    position: absolute;
+    width: 520px;
+    height: 246px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(233, 241, 238, 0.8);
+    backdrop-filter: blur(5px);
+}
+
+.image-frame4{
+    width: 61px;
+    height: 61px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.main-text-frame4{
+    display: inline-block;
+
+}
+.frame4{
+    display: block;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    position: absolute;
+    width: 192px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    margin-bottom: 24px;
+    margin-left: 38.49px;
+    margin-top: 20px;
+}
+
+.main-text-below{
+    width: 472px;
+    height: 56px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+color: #303C51;
+margin-top: 116px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 24px;
+}
+.text-below{
+    margin: 0px;
+    
+}
